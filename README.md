@@ -8,4 +8,4 @@ Legal and compliance documents for the **NoteVpro ABA** Chrome Extension.
 
 **Product:** NoteVpro ABA — Clinical Note Reviewer  
 **Company:** VSoftware Solutions LLC  
-**Contact:** privacy@notevpro.com
+**Contact:** kurmariodomingo@gmail.com
